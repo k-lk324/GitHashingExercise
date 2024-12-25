@@ -2,7 +2,7 @@
 
 ## Description
 
-I have developed a Bash script that takes a 4-digit integer as input, generates a hash of the input using a hashing algorithm, and saves the output in a file named `hash_output.txt`.
+I have developed a Bash script that takes a 4-digit integer as input, generates a hash of the input using the sha256 hashing algorithm, and saves the output in a file named `hash_output.txt`.
 
 ## Usage
 
